@@ -1,2 +1,3 @@
 # testbad_for_3d
-3D 스터디를 위한 테스트 베드 (렌더링, 포징, 애니메이션.. etc..)
+
+Test bed for 3D study (rendering, posing, animation.. etc..)
